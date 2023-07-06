@@ -22,8 +22,7 @@
 # Introduction <a name="introduction"></a>
 
 <p>JavaScript is a lightweight, cross-platform, single-threaded, and interpreted compiled programming language which is also known as the scripting language for webpages.</p> 
-
-
+<p>JavaScript is a lightweight, cross-platform, single-threaded, and interpreted compiled programming language which is also known as the scripting language for webpages.</p> 
 
 <!-- all link is here -->
 
