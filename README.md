@@ -3,7 +3,7 @@
 
 <img src="/JavaScript_Introduction/img/js-banner.png"  title="JavaScript_Introduction"/>
 
- # Learning JavaScript
+<h1 text-align: center;> Learning JavaScript</h1>
 
 ---
   <br/>
