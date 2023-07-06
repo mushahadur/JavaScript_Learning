@@ -1,7 +1,7 @@
 <!--markdown tutorial-->
 
 
-<img src="/JavaScript_Introduction/img/sl1.png"  title="JavaScript_Introduction"/>
+<img src="/JavaScript_Introduction/img/js-banner.png"  title="JavaScript_Introduction"/>
 
  <br/>
  
