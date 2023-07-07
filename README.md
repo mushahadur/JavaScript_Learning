@@ -11,8 +11,8 @@
 # Table of Contents
 
 - [Introduction](#introduction)
-- [Data pass to view blade file](#data-pass)
-  - [Using the view() function](#view-function)
+- [Data pass to view blade file](#day_one)
+  - [Using the view() function](#variable)
 
 
 <br/>
@@ -27,6 +27,18 @@
 <!-- all link is here -->
 
 <br/>
+
+
+# Day One <a name="day_one"></a>
+
+<p>This is my first day .</p> 
+
 <br/>
 <br/>
 
+
+## Variable <a name="variable"></a>
+
+<p>JavaScript is a lightweight, cross-platform, single-threaded, and interpreted compiled programming language which is also known as the scripting language for webpages.</p> 
+
+<img src="/DayOne/Variables/img/1.png"  title="JavaScript_Introduction"/>
